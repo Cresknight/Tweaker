@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GIF Display</title>
-</head>
-<body>
-    <h1>We Won!</h1>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxoc293eHNjMXBjZmVjMWFqZWl2MXZwdmdkNjRwd3h2bHVlbTg3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPm8BqL6igDUPZ29ik/giphy.gif" alt="A fun GIF">
-</body>
-</html>
+
